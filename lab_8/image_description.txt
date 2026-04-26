@@ -1,0 +1,2 @@
+На зображенні нейромережа визначила об'єкт: syringe
+The neural network detected: syringe
